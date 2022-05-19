@@ -1,0 +1,12 @@
+baseURL = 'https://naresh-chaurasia.github.io/talk2naresh'
+languageCode = 'en-us'
+title = 'Naresh Chaurasia'
+theme = 'hugo-theme-relearn'
+
+[outputs]
+  home = ["HTML", "RSS", "PRINT", "JSON"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+
+[markup.goldmark.renderer]
+unsafe = true
