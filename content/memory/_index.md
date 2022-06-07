@@ -1,7 +1,7 @@
 +++
 chapter = true
 pre = "<b> > </b>"
-title = "Memory"
+title = "Memory Palaces"
 weight = 5
 +++
 
