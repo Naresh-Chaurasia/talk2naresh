@@ -25,21 +25,5 @@ test.. test&amp;hellip; test&amp;hellip;.. test?</description>
       <guid>https://naresh-chaurasia.github.io/talk2naresh/basics/images/</guid>
       <description>      </description>
     </item>
-    <item>
-      <title>images2</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/basics/images2/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/basics/images2/</guid>
-      <description>{{ $asset := resources.Get &amp;ldquo;/Hugo.png&amp;rdquo; }} {{ $img := $asset.Fit &amp;ldquo;600x400&amp;rdquo; }}
- </description>
-    </item>
-    <item>
-      <title>poc</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/basics/poc/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/basics/poc/</guid>
-      <description>POC- hai POC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- haiPOC- hai
-  </description>
-    </item>
   </channel>
 </rss>
