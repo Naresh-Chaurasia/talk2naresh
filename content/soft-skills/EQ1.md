@@ -3,7 +3,7 @@ title: "Emotional Intelligence"
 date: 2022-04-15T13:50:24+05:30
 draft: false
 author: "Naresh Chaurasia"
-tags: ["EQ"]
+tags: ["EQ", "Soft Skill"]
 ---
 
 - [What is Emotional Intelligence](#what-is-emotional-intelligence)

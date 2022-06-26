@@ -3,6 +3,9 @@ title: "Productivity"
 date: 2022-04-28T17:19:18+05:30
 draft: false
 ---
+
+<img src="../productivity.80.60.50.jpg">
+
 - [Mont Vert Walking Track 1](#mont-vert-walking-track-1)
     - [**Ramp** - **Fear**](#ramp---fear)
     - [**Seating Arc** - **Overwhelm**](#seating-arc---overwhelm)
@@ -25,6 +28,7 @@ draft: false
     - [**Basketball Court Inner Circle** - Parkinson's Law](#basketball-court-inner-circle---parkinsons-law)
     - [**Basketball Court Outer Circle** - Themes](#basketball-court-outer-circle---themes)
     - [**Basketball Court Center** - Resurrecting Your Dead Time](#basketball-court-center---resurrecting-your-dead-time)
+
 
 ## Mont Vert Walking Track 1
 
