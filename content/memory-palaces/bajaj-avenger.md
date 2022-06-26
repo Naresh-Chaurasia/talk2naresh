@@ -13,3 +13,25 @@ draft: false
 ---
 
 I use my avenger very often for most of small trips. It can server as a very good memory palace for my ToDo. I put an item, erase the items. Let me experiment and see how it all goes.
+
+Most of the time it is not more than 10 items, so let me keep it simple.
+
+---
+
+#### Speedometer
+
+#### Right Hand Mirror
+
+#### Accelerator
+
+#### Fuel Tank
+
+#### Rider Seat
+
+#### Passenger Seat
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 +++
 chapter = true
-pre = "<b> > </b>"
+pre = "<b> + </b>"
 title = "Soft Skills"
 weight = 5
 +++

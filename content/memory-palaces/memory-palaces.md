@@ -28,6 +28,11 @@ draft: false
 * Metafit Gym Wakad
 * Meatfit Gym Pimple
 * Cult Wakad Gym
+* Walking Track
+* Driving Track
+* Meta Fit
+* Multi Fit
+* Cult
 
 ## A Daily Use Journal / Practial Application
 

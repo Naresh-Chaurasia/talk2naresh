@@ -7,12 +7,13 @@ draft: False
 - [Technical Template](#technical-template)
   - [Sergey Kargopolov Case Study](#sergey-kargopolov-case-study)
 
-I need to build / design a system for my learning process. It should cover the following aspects.
+I need to build / design a system for my learning. This system will be built using inputs from different sources (Udemy, Pluralsight, JIRA etc.)
+
 
 ### Technical Template
 
 #### Sergey Kargopolov Case Study
 
-- [ ] Mercury
-- [x] Venus
-- [ ] https://nareshchaurasia.atlassian.net/browse/ARCH-104
+- [ ] GAPP System from Himesh Trivedi
+- [x] Jonathan Levi Techniques
+- [ ] 

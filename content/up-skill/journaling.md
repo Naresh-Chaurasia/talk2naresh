@@ -4,7 +4,20 @@ date: 2022-05-03T15:53:08+05:30
 draft: false
 ---
 
+- [Exercise 2](#exercise-2)
+  - [Becoming Your Life’s Historian](#becoming-your-lifes-historian)
+  - [Documenting Lessons Learned](#documenting-lessons-learned)
+  - [Chronicling Your Dreams](#chronicling-your-dreams)
+  - [Morning Pages and Getting It All Out](#morning-pages-and-getting-it-all-out)
+  - [Your Daily "Why"](#your-daily-why)
+  - [Goals, To-Do's, and Progress Tracking](#goals-to-dos-and-progress-tracking)
+  - [Gratitude Journaling](#gratitude-journaling)
+  - [Gratitude Journaling](#gratitude-journaling-1)
+  - [Training Your Want Muscle](#training-your-want-muscle)
+
 This page will server as a template for Journaling. It will contain structure to write daily, weekly, montly, yearly and life time Journaling.
+
+### Exercise 2
 
 #### Becoming Your Life’s Historian
 
