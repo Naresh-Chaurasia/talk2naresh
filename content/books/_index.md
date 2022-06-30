@@ -1,12 +1,8 @@
 +++
 chapter = true
-pre = "<b> > </b>"
+pre = "<b> + </b>"
 title = "Books"
 weight = 5
 +++
 
-### Chapter X
-
-# Some Chapter title
-
-Lorem Ipsum.
+# Books

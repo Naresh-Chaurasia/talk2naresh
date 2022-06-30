@@ -5,8 +5,4 @@ title = "Memory Palaces"
 weight = 5
 +++
 
-### Chapter X
-
-# Some Chapter title
-
-Lorem Ipsum.
+### Memory Palaces

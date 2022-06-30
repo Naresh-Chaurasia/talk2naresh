@@ -6,19 +6,20 @@ draft: false
 
 
 - [Salsa](#salsa)
-    - [Salsa Shines Routine](#salsa-shines-routine)
-    - [Salsa Dance Routine](#salsa-dance-routine)
-  - [Seaon Stylist Bristol](#seaon-stylist-bristol)
+  - [Salsa Shines Routine](#salsa-shines-routine)
+  - [Salsa Dance Routine](#salsa-dance-routine)
+- [Seaon Stylist Bristol](#seaon-stylist-bristol)
   - [Section 1](#section-1)
   - [Section 2](#section-2)
   - [Section 3](#section-3)
 - [Steps](#steps)
 - [YouTube](#youtube)
 
+<img src="../salsa.jpg">
 
-### Salsa 
+## Salsa 
 
-#### Salsa Shines Routine
+### Salsa Shines Routine
 
 1. Basic,
 2. Side Basic,
@@ -30,7 +31,7 @@ draft: false
 8. 4 Crosses,
 9. 4 Taps
 
-#### Salsa Dance Routine
+### Salsa Dance Routine
 
 - Basic
 - CBL
@@ -42,10 +43,14 @@ draft: false
 - Close Hold
 - Open Break
 
-### Seaon Stylist Bristol
+## Seaon Stylist Bristol
 
 ### Section 1
 
+- **Basic**
+- **Side Basic**
+- **Right Turn**
+- **Left Turn**
 - **Front Double Basic**: Both the basic are happening in front.
   - Basic with left at 45 degrees, 5 is back diagonally, 6 is turn, 7 is forward.
 - **Front Double Cross**
