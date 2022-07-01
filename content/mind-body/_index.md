@@ -1,7 +1,7 @@
 +++
 chapter = true
 pre = "<b> + </b>"
-title = "Fitness"
+title = "Mind & Body"
 weight = 5
 +++
 

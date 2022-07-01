@@ -9,8 +9,8 @@ draft: false
   - [Salsa Shines Routine](#salsa-shines-routine)
   - [Salsa Dance Routine](#salsa-dance-routine)
 - [Seaon Stylist Bristol](#seaon-stylist-bristol)
-  - [Section 1](#section-1)
-  - [Section 2](#section-2)
+  - [Section 1: Hour One](#section-1-hour-one)
+  - [Section 2: Hour Two](#section-2-hour-two)
   - [Section 3](#section-3)
 - [Steps](#steps)
 - [YouTube](#youtube)
@@ -45,31 +45,36 @@ draft: false
 
 ## Seaon Stylist Bristol
 
-### Section 1
+### Section 1: Hour One
 
 - **Basic**
 - **Side Basic**
 - **Right Turn**
 - **Left Turn**
-- **Front Double Basic**: Both the basic are happening in front.
+- **Front Double Basic**: (Shine) Both the basic are happening in front.
   - Basic with left at 45 degrees, 5 is back diagonally, 6 is turn, 7 is forward.
+- **Suzi Q**
 - **Front Double Cross**
   - Start with left: right, left, right
   - Start with right: left, right, left
+- **CBL**
 - **Back Basic**
-  - Left back, step with right in same place, left back (do not cross)
-- **Ladies Right Turn**
-  - Male left hand and she turns outside
-- **My Right Turn**
+  - Left back, step with Right in same place, Left back (do not cross) - 1,2,3
+  - Right back, step with Left in same place, Right back (do not cross) - 5,6,7
+- **Close Hold**
+- **Open Break, Ladies Right Turn**
+  - Male left hand and she turns outside (5,6,7). Outside Turn / Right Turn
+  - Back Basic and Then Right Turn
+  - **Routing** - CBL, Ladies Right Turn
+- **Men's Right Turn**
   - Change hands behind
 - **Check to Check**
   - Back basic and use Palm
 
-### Section 2
+### Section 2: Hour Two
 
 - Suzi Q Plus
-
-  - Routines
+- 
 
 ### Section 3
 
