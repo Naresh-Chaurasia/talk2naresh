@@ -12,8 +12,8 @@ draft: false
     - [**Soil/Earth** - **Plan**](#soilearth---plan)
     - [**Vehilce Mirror** - **Perfect**](#vehilce-mirror---perfect)
     - [**Tree** - **Multi-Tasking**](#tree---multi-tasking)
-    - [**Fence Wall** - **Fake Breaks**](#fence-wall---fake-breaks)
-    - [**Fence Railing** - **Emotional**](#fence-railing---emotional)
+    - [**Fence Wall** - **Fake Breaks** !](#fence-wall---fake-breaks-)
+    - [**Fence Railing** - **Emotional** !](#fence-railing---emotional-)
     - [**Speed Limit** - **Email**](#speed-limit---email)
     - [**Visitor Parking** - **Time** Managment](#visitor-parking---time-managment)
     - [**Overhead Park Fencing / Railing** - Spending **Time**](#overhead-park-fencing--railing---spending-time)
@@ -129,7 +129,7 @@ path of diminishing returns
 
 ---
 
-#### **Fence Wall** - **Fake Breaks**
+#### **Fence Wall** - **Fake Breaks** !
 
 Time Leaks & **Fake Breaks**
 
@@ -139,9 +139,11 @@ Your brain and your body does need time to rejuvenate and needs breaks in order 
 
 ---
 
-#### **Fence Railing** - **Emotional**
+#### **Fence Railing** - **Emotional** !
 
 Poor **Emotional** and **Energy** Managment / EE
+
+> If you are sitting on Fence Railing, it has to be power pose
 
 Amy Cuddy is a social psychologist and professor at Harvard Business School, delivered a great TED talk that shows the power of influence we have on ourselves and specifically regarding the way that we use our own body. In her studies, she put participants into **high powered poses or low power poses** for just two minutes now. You'll see over here on the left, we've got our high power poses. This one right here has been dubbed the Wonder Woman Pose. But in each one of these scenarios, you'll see that they're making their body wide and or expanding their stance, and over here on the right hand side, you're going to see low power poses. They're making themselves small or closing their body language. And after just two minutes, they test the participants hormone levels to see if it had any effect. And quite frankly, I found the findings astounding. Now, those who struck the high power pose, so a 20 percent increase in testosterone and a 25 percent decrease in cortisol, cortisol being a hormone most times associated with stress and those that spent two minutes in the low power poses saw a 10 percent decrease in testosterone and a 15 percent increase in cortisol
 
@@ -229,7 +231,7 @@ Knowing and Doing Are Completely Different Things
 
 Give me a mediocre idea that's flawlessly executed and I will win every single time over a genius idea that never gets off the ground. Now, most people love to put their focus on the latest and greatest thing, the new idea, the sexy idea. But those that execute the fundamentals actually get the best results
 
-ow, I'm sure you've heard the term knowledge is power, but I disagree. I don't think knowledge really is power. I truly believe that knowledge is potential power, potential power, but only power, if actually acted upon and used that real power comes from its application or execution because without action, there's no results
+Now, I'm sure you've heard the term knowledge is power, but I disagree. I don't think knowledge really is power. I truly believe that knowledge is potential power, potential power, but only power, if actually acted upon and used that real power comes from its application or execution because without action, there's no results
 
 ---
 
