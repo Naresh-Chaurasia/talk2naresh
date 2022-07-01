@@ -6,7 +6,7 @@ draft: false
 
 <img src="../productivity.80.60.50.jpg">
 
-- [Mont Vert Walking Track 1](#mont-vert-walking-track-1)
+- [**Mont Vert Walking Track 1**](#mont-vert-walking-track-1)
     - [**Ramp** - **Fear**](#ramp---fear)
     - [**Seating Arc** - **Overwhelm**](#seating-arc---overwhelm)
     - [**Soil/Earth** - **Plan**](#soilearth---plan)
@@ -28,9 +28,11 @@ draft: false
     - [**Basketball Court Inner Circle** - Parkinson's Law](#basketball-court-inner-circle---parkinsons-law)
     - [**Basketball Court Outer Circle** - Themes](#basketball-court-outer-circle---themes)
     - [**Basketball Court Center** - Resurrecting Your Dead Time](#basketball-court-center---resurrecting-your-dead-time)
+- [**Case Studies**](#case-studies)
+    - [Mind Mapping](#mind-mapping)
 
 
-## Mont Vert Walking Track 1
+## **Mont Vert Walking Track 1**
 
 > Productivity and Time Management for the Overwhelmed - Josh Paulsen
 
@@ -317,3 +319,21 @@ Lately I am watching a lot of movies. I could use this time more effectively.
 * Harry Lorrayne
 * Cycling
 * Rowing
+
+
+---
+
+## **Case Studies**
+
+#### 	Mind Mapping
+
+> Mind Mapping Mastery Effective Mind Maps Step by Step - Barry Mapp
+
+**Problem Statement**: What can I do to make use of above skills that I have learnt.
+
+* It will help me to address the **overwhelming** information by organizing them into Mind Maps
+* I will not wait to be **perfect**. For now I will use coggle.it, and the see how things go. Period.
+* I have started **investing time** to convert information into Mind Maps
+* I Know it and I have also started doing it.
+* **First Thing First**, I started with DEFM, as it is long due, and advisable.
+* I want to make it **timebound**, but it is listening course.
