@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/base/</loc>
+    <lastmod>2022-07-05T10:45:06+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/base/second-content/</loc>
+    <lastmod>2022-07-05T10:45:06+05:30</lastmod>
+  </url>
+  <url>
     <loc>https://naresh-chaurasia.github.io/talk2naresh/creativity/</loc>
     <lastmod>2022-06-23T14:29:25+05:30</lastmod>
   </url>
@@ -49,15 +57,31 @@
     <lastmod>2022-04-15T10:55:16+05:30</lastmod>
   </url>
   <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/java/</loc>
+    <lastmod>2022-01-10T08:00:12+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/spring/</loc>
+    <lastmod>2022-01-10T08:00:12+05:30</lastmod>
+  </url>
+  <url>
     <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/</loc>
     <lastmod>2022-01-10T08:00:12+05:30</lastmod>
   </url>
   <url>
-    <loc>https://naresh-chaurasia.github.io/talk2naresh/creativity/iphone/</loc>
-    <lastmod>2022-06-23T14:29:25+05:30</lastmod>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/base/base-content/</loc>
+    <lastmod>2022-07-05T10:45:06+05:30</lastmod>
   </url>
   <url>
     <loc>https://naresh-chaurasia.github.io/talk2naresh/</loc>
+    <lastmod>2022-07-05T10:45:06+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/base/second-content/second-content/</loc>
+    <lastmod>2022-07-05T10:45:06+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/creativity/iphone/</loc>
     <lastmod>2022-06-23T14:29:25+05:30</lastmod>
   </url>
   <url>
@@ -129,7 +153,11 @@
     <lastmod>2022-04-28T17:19:18+05:30</lastmod>
   </url>
   <url>
-    <loc>https://naresh-chaurasia.github.io/talk2naresh/memory-palaces/productivity/</loc>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/memory-palaces/productivity-1.0/</loc>
+    <lastmod>2022-04-28T17:19:18+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/memory-palaces/productivity-2.0/</loc>
     <lastmod>2022-04-28T17:19:18+05:30</lastmod>
   </url>
   <url>
@@ -241,6 +269,10 @@
     <lastmod>2022-01-10T08:00:12+05:30</lastmod>
   </url>
   <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/java/core-java/</loc>
+    <lastmod>2022-01-10T08:00:12+05:30</lastmod>
+  </url>
+  <url>
     <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/programming/</loc>
     <lastmod>2022-01-10T08:00:12+05:30</lastmod>
   </url>
@@ -250,6 +282,10 @@
   </url>
   <url>
     <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/spring-framework/</loc>
+    <lastmod>2022-01-10T08:00:12+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/talk2naresh/technical/spring/spring-frameworks/</loc>
     <lastmod>2022-01-10T08:00:12+05:30</lastmod>
   </url>
   <url>
