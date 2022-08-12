@@ -4,7 +4,6 @@ date: 2022-04-29T13:23:01+05:30
 draft: false
 ---
 - [Kozomba on Fire](#kozomba-on-fire)
-- [Kizomba Socials Performance Practice](#kizomba-socials-performance-practice)
 - [Kizomba Steps](#kizomba-steps)
 
 #### Kozomba on Fire
@@ -33,19 +32,11 @@ Knees go out.
 
 
 
----
-
-
-
-#### Kizomba Socials Performance Practice
-
-{{< youtube VFCX_coa1Z0 >}}
 
 ---
 
 #### Kizomba Steps
 
-{{< youtube 9lJ76M5pnhE >}}
 
 * Basic - 1
 * Basic - 2

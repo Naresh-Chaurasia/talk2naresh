@@ -69,11 +69,12 @@ draft: false
 - **Men's Right Turn**
   - Change hands behind
 - **Check to Check**
-  - Back basic and use Palm
+  - Back Basic - 1,2,3
+  - Normal Basic Step - 5,6,7
 
 ### Section 2: Hour Two
 
-- Suzi Q Plus
+- Suzy Q plus. Suzi Q, Suzi, Suzi Q (Not understanding the beat and count)
 - 
 
 ### Section 3
