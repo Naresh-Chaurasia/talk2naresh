@@ -2,4 +2,4 @@ git add .
 
 git commit -m "Lenovo Ideapad 320, Checkin Timestamp :: %date% -%time%";
 
-git push -U origin main
+git push origin main
